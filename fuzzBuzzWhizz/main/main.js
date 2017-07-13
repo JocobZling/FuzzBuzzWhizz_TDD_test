@@ -1,14 +1,4 @@
 'use strict';
-/*function fuzbuzzwhizz(a,b,c) {
-    let array=[];
-    let output="";
-    for(let i=0;i<=100;i++)
-    {
-        array.push(i);
-    }
-    output =array.join(" ");
-    return output;
-}*/
 function mapNumberToWord(num) {
     let fizz = 3;
     let buzz = 5;
